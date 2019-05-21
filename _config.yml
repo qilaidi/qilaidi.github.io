@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "思考"
-title_right   : "space" # default: ""
+title_left    : "修炼地"
+title_right   : "" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://qilaidi.github.io/ # site url
+url           : https://qilaidi.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Kernel Chang"
+  name     : "张倩"
 
 plugins:
   - jekyll-sitemap
