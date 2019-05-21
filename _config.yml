@@ -38,7 +38,7 @@ plugins:
 # navbar pages
 navbar:
   - slug : about
-    title: About
+    title: 关于我
   - slug : blog
     title: Blog
 
