@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "张倩"
+  name     : "Kernel"
 
 plugins:
   - jekyll-sitemap
